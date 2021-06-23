@@ -1,0 +1,4 @@
+sushal,,7353164950,UDUPI,,chennibettu madaga athradi,anjar,hiriryadka,576113,police station,MEDIUM
+test,,9945731629,KARKALA,,aaaaaaa,aaa,managlore,576133,jv,MEDIUM
+aa,,665161194,KARKALA,,aaaaa,aaaa,aaa,aaa,aaa,LOW
+aa,,665161194,KARKALA,,aaaaa,aaaa,aaa,aaa,aaa,LOW
